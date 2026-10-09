@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NcsWarriors.aternos.me:42872",
+    "port": 42872,
     "version": "",
     "try-creative": false
   },
